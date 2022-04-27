@@ -1,0 +1,22 @@
+body {
+  font-family: 'Times New Roman', Georgia, Serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display';
+  letter-spacing: 5px;
+}
+
+.container {
+  position: relative;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 26px;
+}

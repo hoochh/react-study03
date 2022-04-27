@@ -7,7 +7,9 @@ import './App.css';
 
 // import BSTest1 from './BSTest1';
 // import BSTest2 from './BSTest2';
-import Home from './home';
+// import Home from './Home';
+// import Home2 from './test1/Home2';
+import Home3 from './test2/Home3';
 
 // 리액트용 부트스트랩 사용하기
 // 리액트용 부트스트랩 설치
@@ -35,7 +37,9 @@ function App() {
     <div className="App">
       {/* <BSTest1 /> */}
       {/* <BSTest2 /> */}
-      <Home />
+      {/* <Home /> */}
+      {/* <Home2 /> */}
+      <Home3 />
     </div>
   );
 }
